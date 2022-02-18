@@ -6,7 +6,7 @@ import Menu from '../components/menu/index'
 
 const Home: NextPage = () => {
   return (
-    <div className={styles.container}>
+    <>
       <Head>
         <title>Leaf Pro Tattoo Balm | Crema vegana para tatuajes con CBD</title>
         <meta name="description" content="Leaf Pro tattoo balm es una crema para el cuidado de los tatuajes. Su Fórmula vegana con CBD cura y repara la piel tras los tatuajes." />
@@ -33,7 +33,7 @@ const Home: NextPage = () => {
           </span>
         </a>
       </footer>
-    </div>
+    </>
   )
 }
 

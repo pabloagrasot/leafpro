@@ -1,7 +1,8 @@
 :root{
     --bk-color: #35363a;
     --lp-green: #378754;
-    --lp--black: #202124;
+    --lp-black: #202124;
+    --lp-pureBlack: #000;
 }
 html,
 body {
