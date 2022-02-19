@@ -3,6 +3,9 @@
     --lp-green: #378754;
     --lp-black: #202124;
     --lp-pureBlack: #000;
+    --lp-white: #ffffff;
+
+    --lp-radius: 30px;
 }
 html,
 body {
